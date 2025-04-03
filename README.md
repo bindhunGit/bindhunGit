@@ -1,1 +1,1 @@
-I am a novice to Github. Hope to contribute to the community going forward.
+I am a novice to Github. Hopefully, i will contribute to the community going forward.
